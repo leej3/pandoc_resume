@@ -3,7 +3,8 @@ IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
 
-all: html pdf docx rtf
+# all: html pdf docx rtf
+all : pdf
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
@@ -17,29 +18,29 @@ pdf: init
 			--result=$(OUT_DIR)/$$FILE_NAME.pdf > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
 	done
 
-html: init
-	for f in $(IN_DIR)/*.md; do \
-		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-		echo $$FILE_NAME.html; \
-		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
-			--lua-filter=pdc-links-target-blank.lua \
-			--from markdown --to html \
-			--output $(OUT_DIR)/$$FILE_NAME.html $$f; \
-	done
+# html: init
+# 	for f in $(IN_DIR)/*.md; do \
+# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+# 		echo $$FILE_NAME.html; \
+# 		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
+# 			--lua-filter=pdc-links-target-blank.lua \
+# 			--from markdown --to html \
+# 			--output $(OUT_DIR)/$$FILE_NAME.html $$f; \
+# 	done
 
-docx: init
-	for f in $(IN_DIR)/*.md; do \
-		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-		echo $$FILE_NAME.docx; \
-		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
-	done
+# docx: init
+# 	for f in $(IN_DIR)/*.md; do \
+# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+# 		echo $$FILE_NAME.docx; \
+# 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
+# 	done
 
-rtf: init
-	for f in $(IN_DIR)/*.md; do \
-		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-		echo $$FILE_NAME.rtf; \
-		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
-	done
+# rtf: init
+# 	for f in $(IN_DIR)/*.md; do \
+# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+# 		echo $$FILE_NAME.rtf; \
+# 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
+# 	done
 
 init: dir version
 
