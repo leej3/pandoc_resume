@@ -1,12 +1,20 @@
 John Lee
-============
+==========
+
+
+> johnleenimh@gmail.com \hspace[oneem] \emdash  \hspace[oneem] 703 919 1696 \hspace[oneem] \emdash \hspace[oneem] Cleveland Park
+>
+> github.com/leej3 \hspace[twoem] \emdash \hspace[twoem] linkedin.com/in/leej3
+>
+---
+
 
 Education
 ---------
-<!-- :   [**Data scientist **]: Data Science and Sharing Team (DSST), National Institute of Mental Health (NIMH) -->
+
 2016-present
 :   **Data scientist:** Data Science and Sharing Team (DSST), National Institute of Mental Health (NIMH)
-    
+
 2010-2015
 :   **PhD, Neuroscience:** Trinity College, University of Dublin (TCD)
 
@@ -32,8 +40,8 @@ Skills
 
 **Presentation:** Strong communication skills. Comfortable speaking publicly and conveying concepts to people at any level of expertise. Regularly use software tools for reporting analyses and literate programming/computation including LaTeX, Markdown, R-Markdown, and Jupyter notebooks.
 
-**Knowledge of biology:** A broad knowledge of biology with more detailed knowledge of molecular/cellular biology and neural physiology/dysfunction. 
-\pagebreak
+**Knowledge of biology:** A broad knowledge of biology with more detailed knowledge of molecular/cellular biology and neural physiology/dysfunction.
+<!-- \pagebreak -->
 
 
 Experience
@@ -44,7 +52,7 @@ I have been using established tools for data processing in human neuroimaging to
 
 + **Doctoral studies working with Professor Mani Ramaswami, TCD**
 
-I studied a simple olfactory behavior in the fruit fly in order to better understand the molecular and cellular underpinnings of learning and memory. 
+I studied a simple olfactory behavior in the fruit fly in order to better understand the molecular and cellular underpinnings of learning and memory.
 To this end, I established dissection methods for *in vivo* characterization of changes in neural activity during the learning behavior, used both calcium-imaging and electrophysiological techniques to record from olfactory neurons, and developed software tools in Matlab to make analysis of the resulting data both easy and efficient.
 
 + **Research assistant working with Dr. Colm Cunningham (Jan-Jul 2010), TCD**
@@ -81,29 +89,17 @@ Conferences/Workshops
 ---
 * Participant: "Scipy"  (Austin, Texas)
 
-* Speaker: “An Optophysiological Investigation of Habituation”   International “Wiring the Brain Conference"   
+* Speaker: “An Optophysiological Investigation of Habituation”   International “Wiring the Brain Conference"
 
 * Participant: “Genetic and circuit bases of behavior”         EMBO Global Exchange Lecture Course (NCBS, India)
 
 * Participant:  Neural Systems & Behavior Workshop              (Woods Hole, MA)
-   
+
 Publications
 ---
+* Some more publications.
+* Different ones.
 * Isabell Twick, John Anthony Lee, and Mani Ramaswami, “Olfactory Habituation in Drosophila - Odor Encoding and Its Plasticity in the Antennal Lobe.,” *Progress in Brain Research* 208 (2014): 3–38, doi:10.1016/B978-0-444-63350-7.00001-2.
-* Sudeshna Das et al., “Plasticity of Local GABAergic Interneurons Drives Olfactory Habituation.,” Proceedings of the National Academy of Sciences 108, no. 36 (September 6, 2011): E646–54, doi:10.1073/pnas.1106411108. 
+* Sudeshna Das et al., “Plasticity of Local GABAergic Interneurons Drives Olfactory Habituation.,” Proceedings of the National Academy of Sciences 108, no. 36 (September 6, 2011): E646–54, doi:10.1073/pnas.1106411108.
 * Cathal McCann et al., “The Ataxin-2 Protein Is Required for microRNA Function and Synapse-Specific Long-Term Olfactory Habituation.” *Proceedings of the National Academy of Sciences* 108, no. 36 (September 6, 2011): E655–62, doi:10.1073/pnas.1107198108.
 
----
-> Address: Arlington - VA
-
-> Email: <johnleenimh@gmail.com> 
-> 
-> [linkedin.com/in/leej3](http://www.linkedin.com/in/leej3)
-> 
-> [github.com/leej3](https://github.com/leej3)
-> 
-<!-- > Cell: +1 703 399 9253 -->
-> 
-> 
-<!-- > Visa status: Currently on J1 working visa, soon to be permanent resident -->
- 
