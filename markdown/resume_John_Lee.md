@@ -30,13 +30,21 @@ Education
 Skills
 ---
 
-**Programming and data analysis:** In addition to years of Matlab programming, I have been programming daily for 3 years with R or Python, as well as some necessary use of bash . My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites.
+**Programming and data analysis:** In addition to years of Matlab programming, I have been programming daily for 3 years with R or Python, as well as some necessary use of bash. 
+My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites 
+but I have also contributed to several open-source efforts including some outside the domain of human-neuroimaging.
 
-**Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists. To do so, I collaborate with people on-site and others across other academic institutions who work in my domain. I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
+**Testing and distributing software**
 
-**Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database.
 
-**Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
+
+<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
+ To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
+  I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
+ -->
+<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
+
+<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though. -->
 
 
 Experience
@@ -44,11 +52,11 @@ Experience
 2016-Present
 :   **Data Scientist,** National Institute of Mental Health, Bethesda, Maryland
 
-+ Worked as a member of Adam Thomas's Data Science and Sharing Team.
++ Worked as a member of Dr. Adam Thomas's Data Science and Sharing Team.
 + Worked extensively with Python and R to build pipelines for processing magnetic resonance imaging data of human brains.
 + Made frequent use of containers in my workflows, running them in parallel across different compute architectures, including the NIH compute cluster.
 
-Jan-April 2016
+2016
 : **Data Analyst Intern,** Virginia Hospital Center, Arlington, Virginia
 
 + Generated an annual report detailing every insurance payment request and employee salary in the hospital.
@@ -56,15 +64,15 @@ Jan-April 2016
 2010-2015
 :  **Doctoral Candidate,** Trinity College Institute of Neuroscience, Dublin, Ireland
 
-+ Worked with Dr. Mani Ramaswami, studying a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
++ Worked with Prof. Mani Ramaswami, studying a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
 + Developed software tools in Matlab to analyze data describing neural activity in an easy and efficient manner.
 
-Jan-Jul 2010
+2010
 :  **Research Assistant,** Trinity College Institute of Neuroscience, Dublin, Ireland
 
-+ Worked with Dr. Colm Cunningham to establish molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
++ Worked with Prof. Colm Cunningham to establish molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
 
-Summer, 2009
+2009
 : **Research Assistant,** National Center for Biological Sciences (Bangalore, India)
 
 +  Wrote image-processing scripts in Matlab to categorize and quantify bacterial colonies according to size, color, and distance from biochemical signaling sources.
@@ -89,6 +97,9 @@ Leadership positions
 
 Conferences/Workshops
 ---
+
+* Nipype 2.0 hackathon (Boston, Massachusetts, 2018)
+
 * Organization of Human Brain Mapping (Singapore, 2018)
 
 * Advanced Python Mastery (Chicago, Illinois, 2018). Instructor: David Beasley
