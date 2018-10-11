@@ -12,9 +12,6 @@ John Lee
 Education
 ---------
 
-2016-present
-:   **Data scientist:** Data Science and Sharing Team (DSST), National Institute of Mental Health (NIMH)
-
 2010-2015
 :   **PhD, Neuroscience:** Trinity College, University of Dublin (TCD)
 
@@ -32,46 +29,54 @@ Education
 
 Skills
 ---
-**General data analysis:** Applied statistics, including experimental design and hypothesis testing. Expert in Matlab, R, and Python programming languages.
 
-**Human neuroimaging:** Have recently worked with a range of human MRI datasets for the purposes of quality control and standardization for sharing and subsequent analysis.
+**Programming and data analysis:** In addition to years of Matlab programming, I have been programming daily for 3 years with R or Python, as well as some necessary use of bash . My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites.
 
-**Software development:** Proficiency in git, github, continuous integration, and containerization
+**Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists. To do so, I collaborate with people on-site and others across other academic institutions who work in my domain. I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
 
-**Presentation:** Strong communication skills. Comfortable speaking publicly and conveying concepts to people at any level of expertise. Regularly use software tools for reporting analyses and literate programming/computation including LaTeX, Markdown, R-Markdown, and Jupyter notebooks.
+**Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database.
 
-**Knowledge of biology:** A broad knowledge of biology with more detailed knowledge of molecular/cellular biology and neural physiology/dysfunction.
-<!-- \pagebreak -->
+**Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
 
 
 Experience
 ---
-+ **Data scientist working with Dr. Adam Thomas, NIMH**
+2016-Present
+:   **Data Scientist,** National Institute of Mental Health, Bethesda, Maryland
 
-I have been using established tools for data processing in human neuroimaging to create shareable, quality controlled datasets from researchers at the intramural program at NIMH.
++ Worked as a member of Adam Thomas's Data Science and Sharing Team.
++ Worked extensively with Python and R to build pipelines for processing magnetic resonance imaging data of human brains.
++ Made frequent use of containers in my workflows, running them in parallel across different compute architectures, including the NIH compute cluster.
 
-+ **Doctoral studies working with Professor Mani Ramaswami, TCD**
+Jan-April 2016
+: **Data Analyst Intern,** Virginia Hospital Center, Arlington, Virginia
 
-I studied a simple olfactory behavior in the fruit fly in order to better understand the molecular and cellular underpinnings of learning and memory.
-To this end, I established dissection methods for *in vivo* characterization of changes in neural activity during the learning behavior, used both calcium-imaging and electrophysiological techniques to record from olfactory neurons, and developed software tools in Matlab to make analysis of the resulting data both easy and efficient.
++ Generated an annual report detailing every insurance payment request and employee salary in the hospital.
 
-+ **Research assistant working with Dr. Colm Cunningham (Jan-Jul 2010), TCD**
+2010-2015
+:  **Doctoral Candidate,** Trinity College Institute of Neuroscience, Dublin, Ireland
 
-I established molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
++ Worked with Dr. Mani Ramaswami, studying a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
++ Developed software tools in Matlab to analyze data describing neural activity in an easy and efficient manner.
 
-+ **Research assistant working with Dr. Mukund Thattai (Summer, 2009), NCBS (Bangalore, India)**
+Jan-Jul 2010
+:  **Research Assistant,** Trinity College Institute of Neuroscience, Dublin, Ireland
 
-I developed a high throughput assay for biochemical signaling between cultured bacterial colonies.
-I also wrote image-processing scripts in Matlab to categorize and quantify bacterial colonies according to size, color, and distance from biochemical signaling sources.
++ Worked with Dr. Colm Cunningham to establish molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
+
+Summer, 2009
+: **Research Assistant,** National Center for Biological Sciences (Bangalore, India)
+
++  Wrote image-processing scripts in Matlab to categorize and quantify bacterial colonies according to size, color, and distance from biochemical signaling sources.
 
 
 Awards and Honors
 ---
  2007-2013
- :  **Trinity College Scholar:** This is the most prestigious undergraduate academic award in Ireland.
+ :  **Trinity College Scholar:** The most prestigious undergraduate academic award in Ireland.
 
 2008
-: **UREKA award:** 12-week summer project funded by the Irish Science Foundation
+: **UREKA Award:** 12-week summer project funded by the Irish Science Foundation.
 
 
 Leadership positions
@@ -79,27 +84,19 @@ Leadership positions
 2010-2014
 :   **President, Treasurer:** Dublin University Neuroscience Society
 
-2012
-:   **Secretary:** Dublin University Sub Aqua Club
-
 2015
 : **Dive Leader & Open Water Instructor:** British Sub-Aqua Club
 
 Conferences/Workshops
 ---
-* Participant: "Scipy"  (Austin, Texas)
+* Organization of Human Brain Mapping (Singapore, 2018)
 
-* Speaker: “An Optophysiological Investigation of Habituation”   International “Wiring the Brain Conference"
+* Advanced Python Mastery (Chicago, Illinois, 2018). Instructor: David Beasley
 
-* Participant: “Genetic and circuit bases of behavior”         EMBO Global Exchange Lecture Course (NCBS, India)
+* Participant: "SciPy"  (Austin, Texas, 2016 and 2017).
 
-* Participant:  Neural Systems & Behavior Workshop              (Woods Hole, MA)
 
-Publications
+Selected Publications
 ---
-* Some more publications.
-* Different ones.
-* Isabell Twick, John Anthony Lee, and Mani Ramaswami, “Olfactory Habituation in Drosophila - Odor Encoding and Its Plasticity in the Antennal Lobe.,” *Progress in Brain Research* 208 (2014): 3–38, doi:10.1016/B978-0-444-63350-7.00001-2.
-* Sudeshna Das et al., “Plasticity of Local GABAergic Interneurons Drives Olfactory Habituation.,” Proceedings of the National Academy of Sciences 108, no. 36 (September 6, 2011): E646–54, doi:10.1073/pnas.1106411108.
-* Cathal McCann et al., “The Ataxin-2 Protein Is Required for microRNA Function and Synapse-Specific Long-Term Olfactory Habituation.” *Proceedings of the National Academy of Sciences* 108, no. 36 (September 6, 2011): E655–62, doi:10.1073/pnas.1107198108.
-
+* M Nielson, Dylan & Pereira, Francisco & Y Zheng, Charles & Migineishvili, Nino & A Lee, John & Thomas, Adam & Bandettini, Peter. (2018). Detecting and harmonizing scanner differences in the ABCD study - annual release 1.0. 10.1101/309260.
+* Migineishvili, Nino & Nielson, Dylan & A. Lee, John & Shaw, Phillip & Thomas, Adam & Bandettini, Peter. (2017). Parsimony and Machine Learning in Neuroimaging. 10.13140/RG.2.2.25126.63047.
