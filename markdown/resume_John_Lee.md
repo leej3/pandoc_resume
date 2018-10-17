@@ -32,14 +32,14 @@ Skills
 
 **Software development** In addition to several years of Matlab programming, I have been programming daily for 3 years with R, Python, and bash.
 My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites 
-but I have also contributed to several open-source efforts including some outside the domain of human-neuroimaging.
+but I have also contributed extensively to several open-source efforts, using git version control and Github, including some outside the domain of human-neuroimaging.
 
-**Testing and distributing software**
+**Testing and packaging software**
 I have experience with continuous-integration tools (travis, circleci),
 testing infrastructures (nose, pytest, ctest), and software packaging (pip, conda, cpack).
 
 **Distributed computation**
-Predominantly in the context of human neuroimaging software I have leveraged compute-cluster resources through several frontends (dask, ippyparallel, swarm, slurm, nipype) and have some experience with AWS cloud-computing.
+Predominantly in the context of human neuroimaging software I have leveraged compute-cluster resources through several front-ends (dask, ippyparallel, swarm, slurm, nipype) and have some experience with AWS cloud-computing.
 
 **Containers**
 I am expert in using and defining software environments with container technologies (docker and singularity).
