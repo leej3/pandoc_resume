@@ -30,11 +30,28 @@ Education
 Skills
 ---
 
-**Programming and data analysis:** In addition to years of Matlab programming, I have been programming daily for 3 years with R or Python, as well as some necessary use of bash. 
+**Software development** In addition to several years of Matlab programming, I have been programming daily for 3 years with R, Python, and bash.
 My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites 
 but I have also contributed to several open-source efforts including some outside the domain of human-neuroimaging.
 
 **Testing and distributing software**
+I have experience with continuous-integration tools (travis, circleci),
+testing infrastructures (nose, pytest, ctest), and software packaging (pip, conda, cpack).
+
+**Distributed computation**
+Predominantly in the context of human neuroimaging software I have leveraged compute-cluster resources through several frontends (dask, ippyparallel, swarm, slurm, nipype) and have some experience with AWS cloud-computing.
+
+**Containers**
+I am expert in using and defining software environments with container technologies (docker and singularity).
+
+**Automation**
+On a daily basis I automate workflows using tools like crontab, bash, and python to improve the efficiency, reproducibility, and scalability of several aspects of my role.
+
+**System administration**
+I am part of a team that maintains GPU-compute servers as part of the work at the NIH. This administrative experience is limited to the Ubuntu operating system.
+
+**Best practice**
+I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
 
 
 
