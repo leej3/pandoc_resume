@@ -30,12 +30,12 @@ Education
 Skills
 ---
 
-**Software development** In addition to several years of Matlab programming, I have been programming daily for 3 years with R, Python, and bash.
-My experience has been predominantly with data wrangling and assembling reproducible-pipelines with pre-existing algorithms/software suites 
-but I have also contributed extensively to several open-source efforts, using git version control and Github, including some outside the domain of human-neuroimaging.
+**Programming** In addition to several years of Matlab programming, I have been programming daily for 3 years with R, Python, and Bash.
+This more recent experience has been predominantly with data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites 
+but I have also contributed extensively to several open-source libraries on github, including some outside the domain of human-neuroimaging.
 
 **Testing and packaging software**
-I have experience with continuous-integration tools (travis, circleci),
+I have some experience with continuous-integration tools (travis, circleci),
 testing infrastructures (nose, pytest, ctest), and software packaging (pip, conda, cpack).
 
 **Distributed computation**
