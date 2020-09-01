@@ -26,7 +26,7 @@ Education
 2005-2009
 :   **BAmod, Natural Science - Neuroscience:** TCD
 
-
+<!-- 
 Skills
 ---
 
@@ -51,7 +51,7 @@ On a daily basis I automate workflows using tools like crontab, bash, and python
 I am part of a team that maintains GPU-compute servers as part of the work at the NIH. This administrative experience is limited to the Ubuntu operating system.
 
 **Best practice**
-I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
+I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer). -->
 
 
 
@@ -66,7 +66,21 @@ I have been involved in several workshops on best practices for scientific compu
 
 Experience
 ---
-2016-Present
+
+2019-Present
+:   **Python Instructor,** Foundation for Advanced Education in the Sciences
+
++ 14-week course "Introduction to Python" (Biof-309)
+
+2018-Present
+:   **Dev Ops Engineer,** National Institute of Mental Health, Bethesda, Maryland
+
++ Worked as a member of Dr. Bob Cox's Science and statistical computing core.
++ Worked extensively with Python and CMake.
++ Developed a new build system for the team, packaged code using standard packaging tools, setup CI testing infrastructure.
++ As part of the CI testing for neuroimaging pipelines, I worked extensively with python tools for testing, data versioning, and neuroimaging analysis.
+
+2016-2018
 :   **Data Scientist,** National Institute of Mental Health, Bethesda, Maryland
 
 + Worked as a member of Dr. Adam Thomas's Data Science and Sharing Team.
@@ -97,6 +111,7 @@ Experience
 
 Awards and Honors
 ---
+
  2007-2013
  :  **Trinity College Scholar:** The most prestigious undergraduate academic award in Ireland.
 
@@ -106,6 +121,7 @@ Awards and Honors
 
 Leadership positions
 ---
+
 2010-2014
 :   **President, Treasurer:** Dublin University Neuroscience Society
 
@@ -115,9 +131,11 @@ Leadership positions
 Conferences/Workshops
 ---
 
+* DC Code convergence (Washington D.C., 2018, 2019)
+
 * Nipype 2.0 hackathon (Boston, Massachusetts, 2018)
 
-* Organization of Human Brain Mapping (Singapore, 2018)
+* Organization of Human Brain Mapping (2018, 2019)
 
 * Advanced Python Mastery (Chicago, Illinois, 2018). Instructor: David Beasley
 
@@ -126,5 +144,9 @@ Conferences/Workshops
 
 Selected Publications
 ---
+
+* McClure, Patrick, Nao Rho, John A. Lee, Jakub R. Kaczmarzyk, Charles Y. Zheng, Satrajit S. Ghosh, Dylan M. Nielson, Adam G. Thomas, Peter Bandettini, and Francisco Pereira. "Knowing what you know in brain segmentation using Bayesian deep neural networks." Frontiers in neuroinformatics 13 (2019): 67.
+* McClure, Patrick, Charles Y. Zheng, Jakub R. Kaczmarzyk, John A. Lee, Satrajit S. Ghosh, Dylan Nielson, Peter Bandettini, and Francisco Pereira. "Distributed Weight Consolidation: A Brain Segmentation Case Study." arXiv preprint arXiv:1805.10863 (2018).
 * M Nielson, Dylan & Pereira, Francisco & Y Zheng, Charles & Migineishvili, Nino & A Lee, John & Thomas, Adam & Bandettini, Peter. (2018). Detecting and harmonizing scanner differences in the ABCD study - annual release 1.0. 10.1101/309260.
 * Migineishvili, Nino & Nielson, Dylan & A. Lee, John & Shaw, Phillip & Thomas, Adam & Bandettini, Peter. (2017). Parsimony and Machine Learning in Neuroimaging. 10.13140/RG.2.2.25126.63047.
+<!--Indian brain:https://www.biorxiv.org/content/10.1101/2020.05.08.077172v1-->
