@@ -1,14 +1,6 @@
 John Lee
 ==========
 
-
-> johnleenimh@gmail.com \hspace[oneem] \emdash  \hspace[oneem] 703 919 1696 \hspace[oneem] \emdash \hspace[oneem] Cleveland Park
->
-> github.com/leej3 \hspace[twoem] \emdash \hspace[twoem] linkedin.com/in/leej3
->
----
-
-
 Education
 ---------
 
@@ -67,36 +59,37 @@ I have been involved in several workshops on best practices for scientific compu
 Experience
 ---
 
-2019-Present
+2018-Present
+:   **Dev Ops Engineer,** National Institute of Mental Health, Bethesda, Maryland
+
++ I worked as a member of Dr. Bob Cox's Science and statistical computing core.
++ I developed a new build system for the team using CMake for cross-platform compatibility and reducing maintenance effort.
++ I packaged the code using standard packaging tools for easier distribution of releases to our users.
++ I created a continuous integration system that greatly reduces developer burden and is built upon widely used Python tools for testing, data versioning, and neuroimaging analysis.
+
+2019-2020
 :   **Python Instructor,** Foundation for Advanced Education in the Sciences
 
 + 14-week course "Introduction to Python" (Biof-309)
 
-2018-Present
-:   **Dev Ops Engineer,** National Institute of Mental Health, Bethesda, Maryland
-
-+ Worked as a member of Dr. Bob Cox's Science and statistical computing core.
-+ Worked extensively with Python and CMake.
-+ Developed a new build system for the team, packaged code using standard packaging tools, setup CI testing infrastructure.
-+ As part of the CI testing for neuroimaging pipelines, I worked extensively with python tools for testing, data versioning, and neuroimaging analysis.
-
 2016-2018
 :   **Data Scientist,** National Institute of Mental Health, Bethesda, Maryland
 
-+ Worked as a member of Dr. Adam Thomas's Data Science and Sharing Team.
-+ Worked extensively with Python and R to build pipelines for processing magnetic resonance imaging data of human brains.
-+ Made frequent use of containers in my workflows, running them in parallel across different compute architectures, including the NIH compute cluster.
++ I worked as a member of Dr. Adam Thomas's Data Science and Sharing Team.
++ I used Python and R to build pipelines for processing magnetic resonance imaging data of human brains.
++ Through my use of software container technologies, I worked reproducibly in different compute contexts, including the NIH compute cluster.
 
 2016
 : **Data Analyst Intern,** Virginia Hospital Center, Arlington, Virginia
 
-+ Generated an annual report detailing every insurance payment request and employee salary in the hospital.
++ I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
 
 2010-2015
 :  **Doctoral Candidate,** Trinity College Institute of Neuroscience, Dublin, Ireland
 
-+ Worked with Prof. Mani Ramaswami, studying a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
-+ Developed software tools in Matlab to analyze data describing neural activity in an easy and efficient manner.
++ I worked with Prof. Mani Ramaswami, studying a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
++ I developed software tools in Matlab to analyze data describing neural activity in an easy and efficient manner.
+
 
 2010
 :  **Research Assistant,** Trinity College Institute of Neuroscience, Dublin, Ireland
@@ -119,7 +112,7 @@ Awards and Honors
 : **UREKA Award:** 12-week summer project funded by the Irish Science Foundation.
 
 
-Leadership positions
+<!-- Leadership positions
 ---
 
 2010-2014
@@ -127,7 +120,7 @@ Leadership positions
 
 2015
 : **Dive Leader & Open Water Instructor:** British Sub-Aqua Club
-
+ -->
 Conferences/Workshops
 ---
 
@@ -150,3 +143,11 @@ Selected Publications
 * M Nielson, Dylan & Pereira, Francisco & Y Zheng, Charles & Migineishvili, Nino & A Lee, John & Thomas, Adam & Bandettini, Peter. (2018). Detecting and harmonizing scanner differences in the ABCD study - annual release 1.0. 10.1101/309260.
 * Migineishvili, Nino & Nielson, Dylan & A. Lee, John & Shaw, Phillip & Thomas, Adam & Bandettini, Peter. (2017). Parsimony and Machine Learning in Neuroimaging. 10.13140/RG.2.2.25126.63047.
 <!--Indian brain:https://www.biorxiv.org/content/10.1101/2020.05.08.077172v1-->
+
+
+---
+
+> johnleenimh@gmail.com \hspace[oneem] \emdash  \hspace[oneem] +1 202 913 9699 \hspace[oneem] \emdash \hspace[oneem] Cleveland Park, Washington D.C.
+>
+> github.com/leej3 \hspace[twoem] \emdash \hspace[twoem] linkedin.com/in/leej3
+>
