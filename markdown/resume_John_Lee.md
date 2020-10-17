@@ -6,39 +6,33 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 ---
 
-Education
----------
-
-**PhD, Neuroscience:** 2015, Trinity College, University of Dublin (TCD)
- <!--    Thesis title: Olfactory Habituation in *Drosophila melanogaster* -->
-
-**Data Science Specialization:** 2015, Johns Hopkins University - Coursera
-
-**Diploma, Statistics:** 2015, TCD
-
-**BAmod, Natural Science - Neuroscience:** 2009, TCD
-
 Skills
 ---
-**Programming** I program daily with R, Python, and Bash, focusing predominantly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites and contributing to several open-source libraries on Github, including some outside the domain of human-neuroimaging.
+**Programming:** I program daily using Python and Bash. I occasionaly write C and have previously worked extensivley in R and Matlab. Initially focusing predominantly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently spent my time developing software; I have contributed to several open-source libraries.
 
-**Testing and packaging software**
+**Testing and packaging software:**
 I work with continuous-integration tools (Travis, Circleci),
-testing infrastructures (Nose, Pytest, Ctest), and software packaging (Pip, Conda, Cpack).
+testing tools (Pytest, Ctest), and software packaging (pip, conda, CPack, Debian tools).
 
-**Distributed computation**
-Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources through several front-ends (Dask, Ippyparallel, Swarm, Slurm, Nipype) and work in AWS cloud-computing.
+**Distributed computation:**
+Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype).
 
-**Containers**
-I am an expert in using and defining software environments with container technologies (Docker and Singularity).
+**Cloud architectures**
+Typically using awscli, I have worked with cloud computing and data storage using EC2 and S3.
 
-**Automation**
-I automate workflows using tools like Crontab, Bash, and Python to improve the efficiency, reproducibility, and scalability of my work.
+**Containers:**
+I am an expert in using and defining software environments with container technologies (including Docker and Singularity).
 
-**System administration**
-Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH.
+**Automation:**
+I automate workflows using tools like Python, Bash, git, Circleci, and Cron to improve the efficiency, reproducibility, and scalability of my work.
 
-**Best practice**
+**Linux:**
+I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone.
+
+<!-- **System administration:**
+Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH. -->
+
+**Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
 <!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
  To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
@@ -71,9 +65,9 @@ Experience
 
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
-+ I studied a simple olfactory behavior in the fruit fly to develop a better understanding of the molecular and cellular underpinnings in learning and memory.
++ I elucidated neural network changes for a simple olfactory behavior.
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino microcontroller, and electrical systems of my own design.
-+ I developed software tools in Matlab to analyze data describing neural activity in efficient manner.
++ I developed software tools to analyze the data I collected (data wrangling, DSP, image processing, plotting, and statistics).
 
 **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
 
@@ -83,6 +77,17 @@ Experience
 
 +  I wrote image-processing scripts in Matlab to categorize and quantify bacterial colonies according to size, color, and distance from biochemical signaling sources.
 
+Education
+---------
+
+**PhD, Neuroscience:** 2015, Trinity College, University of Dublin (TCD)
+ <!--    Thesis title: Olfactory Habituation in *Drosophila melanogaster* -->
+
+**Data Science Specialization:** 2015, Johns Hopkins University - Coursera
+
+**Diploma, Statistics:** 2015, TCD
+
+**BAmod, Natural Science - Neuroscience:** 2009, TCD
 
 Awards and Honors
 ---
@@ -90,12 +95,21 @@ Awards and Honors
 
 **UREKA Award:** 2008, 12-week summer project funded by the Irish Science Foundation
 
+**NIMH Director's award:** 2019, for "significant achievement"
+
 
 Leadership Positions
 ---
 **President, Treasurer:** 2010-2014, Dublin University Neuroscience Society
 
 **Dive Leader & Open Water Instructor:** 2014, British Sub-Aqua Club
+
+**Co-founder:** 2019-Present, NIMH Coders' forum
+
+```{=context}
+\pagebreak
+```
+
 
 Conferences/Workshops
 ---
@@ -124,4 +138,4 @@ Selected Publications
 > johnleenimh@gmail.com \hspace[oneem] \textbullet  \hspace[oneem] +1 202 913 9699 \hspace[oneem] \textbullet \hspace[oneem] Cleveland Park, Washington D.C.
 >
 > github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
->
+> Fork this resume at github.com/leej3/pandoc_resume
