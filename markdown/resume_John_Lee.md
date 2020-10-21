@@ -8,7 +8,7 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 Skills
 ---
-**Programming:** I program daily using Python and Bash. I occasionaly write C and have previously worked extensivley in R and Matlab. Initially focusing predominantly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently spent my time developing software; I have contributed to several open-source libraries.
+**Programming:** I program daily using Python and Bash. I occasionaly write C and have previously worked extensivley in R and Matlab. Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently spent my time developing software. I have contributed to several open-source libraries.
 
 **Testing and packaging software:**
 I work with continuous-integration tools (Travis, Circleci),
@@ -18,13 +18,13 @@ testing tools (Pytest, Ctest), and software packaging (pip, conda, CPack, Debian
 Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype).
 
 **Cloud architectures:**
-Typically using awscli, I have worked with cloud computing and data storage using EC2 and S3.
+Typically using awscli, I have worked with cloud computing and data storage, using EC2 and S3.
 
 **Containers:**
 I am an expert in using and defining software environments with container technologies (including Docker and Singularity).
 
 **Automation:**
-I automate workflows using tools like Python, Bash, git, Circleci, and Cron to improve the efficiency, reproducibility, and scalability of my work.
+I automate workflows, using tools like Python, Bash, git, Circleci, and Cron to improve the efficiency, reproducibility, and scalability of my work.
 
 **Linux:**
 I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone.
@@ -52,7 +52,7 @@ Experience
 
 **Python Instructor:** 2019-2020, Foundation for Advanced Education in the Sciences
 
-+ I taught a 14-week course, "Introduction to Python" (Biof-309), during fall and spring semester.
++ I taught a 14-week course, "Introduction to Python" (Biof-309) for two semesters.
 
 **Data Scientist:** 2016-2018, National Institute of Mental Health, Bethesda, Maryland
 
