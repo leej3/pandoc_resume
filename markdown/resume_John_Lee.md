@@ -17,7 +17,7 @@ testing tools (Pytest, Ctest), and software packaging (pip, conda, CPack, Debian
 **Distributed computation:**
 Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype).
 
-**Cloud architectures**
+**Cloud architectures:**
 Typically using awscli, I have worked with cloud computing and data storage using EC2 and S3.
 
 **Containers:**
@@ -75,7 +75,7 @@ Experience
 
 **Research Assistant:** 2009, National Center for Biological Sciences, Bangalore, India
 
-+  I wrote image-processing scripts in Matlab to categorize and quantify bacterial colonies according to size, color, and distance from biochemical signaling sources.
++  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources.
 
 Education
 ---------
@@ -135,7 +135,16 @@ Selected Publications
 
 ---
 
+> johnleenimh@gmail.com
+>
+> github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
+> Fork this resume at github.com/leej3/pandoc_resume
+
+
+
+<!-- old version... US
 > johnleenimh@gmail.com \hspace[oneem] \textbullet  \hspace[oneem] +1 202 913 9699 \hspace[oneem] \textbullet \hspace[oneem] Cleveland Park, Washington D.C.
 >
 > github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
 > Fork this resume at github.com/leej3/pandoc_resume
+ -->
