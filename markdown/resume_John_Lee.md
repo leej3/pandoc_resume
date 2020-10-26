@@ -8,39 +8,63 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 Skills
 ---
-**Programming:** I program daily using Python and Bash. I occasionaly write C and have previously worked extensivley in R and Matlab. Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently spent my time developing software. I have contributed to several open-source libraries.
 
-**Testing and packaging software:**
-I work with continuous-integration tools (Travis, Circleci),
-testing tools (Pytest, Ctest), and software packaging (pip, conda, CPack, Debian tools).
+**CI sytems:**
+I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
+While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
+
+**Data munging:**
+I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools (in Python).
+
+**Build tools:**
+I have worked extensively with a large complex build system.
+The software suite was developed over ~25 years, comprised of >600 programs, ~1.5 million lines of code, several previously unpackaged dependencies.
+In addition to modifying the pre-existing Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
+The build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
+
+**git:**
+I have used git version control for over a decade.
+I work regularly with aspects of commit management (bisect, interactive rebase, patch application, etc.).
+I have also worked with more advanced aspects of git such as grafting histories and rewriting histories with deletion of large binaries.
 
 **Distributed computation:**
-Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype).
+Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype) sometimes efficiently using thousands of CPU hours within a day.
 
 **Cloud architectures:**
-Typically using awscli, I have worked with cloud computing and data storage, using EC2 and S3.
+Typically using awscli (but also a little Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
 
 **Containers:**
-I am an expert in using and defining software environments with container technologies (including Docker and Singularity).
+I frequently use containerization (including Docker and Singularity) for defining reproducible, version-able, and portable software environments.
 
-**Automation:**
-I automate workflows, using tools like Python, Bash, git, Circleci, and Cron to improve the efficiency, reproducibility, and scalability of my work.
+**Packaging software:**
+I have substantial experience with using packaging tools including pip, conda, CPack, and Debian tools.
+
+**Programming:**
+I program daily using Python and Bash.
+I occasionally write C and have worked extensively in R and Matlab.
+Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
+I have contributed to several open-source libraries.
+
+**Automation/Orchestration:**
+I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
 
 **Linux:**
-I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone.
+I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone (mobian on PinePhone).
 
-<!-- **System administration:**
-Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH. -->
 
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
-<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
- To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
-  I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
- -->
-<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
 
-<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though. -->
++<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
++ To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
++  I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
++ -->
++<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
+
++<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.-->
+
++<!-- **System administration:**
++Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH. -->
 
 Experience
 ---
@@ -59,23 +83,23 @@ Experience
 + As a member of the data science and sharing team, I built pipelines for processing magnetic resonance imaging data of human brains, using Python and R.
 + By introducing software container technologies to our team, I eased our ability to work reproducibly in different compute contexts, including the NIH compute cluster.
 
-**Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
+<!-- **Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
 
-+ I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
++ I compiled an annual report detailing every insurance payment request and employee salary in the hospital. -->
 
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I elucidated neural network changes for a simple olfactory behavior.
-+ I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino microcontroller, and electrical systems of my own design.
++ I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design.
 + I developed software tools to analyze the data I collected (data wrangling, DSP, image processing, plotting, and statistics).
 
-**Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
+<!-- **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I established molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
 
 **Research Assistant:** 2009, National Center for Biological Sciences, Bangalore, India
 
-+  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources.
++  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources. -->
 
 Education
 ---------
@@ -91,20 +115,20 @@ Education
 
 Awards and Honors
 ---
-**Trinity College Scholar:** 2007, The most prestigious undergraduate academic award in Ireland
+**NIMH Director's award:** 2019, for "significant achievement"
 
 **UREKA Award:** 2008, 12-week summer project funded by the Irish Science Foundation
 
-**NIMH Director's award:** 2019, for "significant achievement"
+**Trinity College Scholar:** 2007, The most prestigious undergraduate academic award in Ireland
 
 
 Leadership Positions
 ---
-**President, Treasurer:** 2010-2014, Dublin University Neuroscience Society
+**Co-founder:** 2019-Present, NIMH Coders' forum
 
 **Dive Leader & Open Water Instructor:** 2014, British Sub-Aqua Club
 
-**Co-founder:** 2019-Present, NIMH Coders' forum
+**President, Treasurer:** 2010-2014, Dublin University Neuroscience Society
 
 ```{=context}
 \pagebreak
