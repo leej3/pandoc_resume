@@ -8,7 +8,7 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 Skills
 ---
-
+<!-- Add restful apis to technologies -->
 **CI sytems:**
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
@@ -55,15 +55,15 @@ I spend my days using Linux. This ranges from servers, clusters, cloud, and cont
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
 
-+<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
+<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
 + To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
 +  I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
 + -->
-+<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
+<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
 
-+<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.-->
+<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.-->
 
-+<!-- **System administration:**
+<!-- **System administration:**
 +Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH. -->
 
 Experience
@@ -162,13 +162,5 @@ Selected Publications
 > johnleenimh@gmail.com
 >
 > github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
-> Fork this resume at github.com/leej3/pandoc_resume
-
-
-
-<!-- old version... US
-> johnleenimh@gmail.com \hspace[oneem] \textbullet  \hspace[oneem] +1 202 913 9699 \hspace[oneem] \textbullet \hspace[oneem] Cleveland Park, Washington D.C.
 >
-> github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
 > Fork this resume at github.com/leej3/pandoc_resume
- -->
