@@ -8,7 +8,9 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 Skills
 ---
-<!-- Add restful apis to technologies -->
+<!--
+Add restful apis to technologies
+-->
 **CI sytems:**
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
@@ -55,16 +57,23 @@ I spend my days using Linux. This ranges from servers, clusters, cloud, and cont
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
 
-<!-- **Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
+<!--
+**Collaboration:** Whenever I generate a solution to a problem, I seek to build off what already exists.
 + To do so, I collaborate with people on-site and others across other academic institutions who work in my domain.
 +  I continually work to develop the requisite skills in tooling and communication to become more effective at collaborative problem solving strategies.
-+ -->
-<!-- **Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database. -->
++
+-->
+<!--
+**Relational databases:** I have limited experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to a pre-existing database.
+-->
 
-<!-- **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.-->
+<!--
+**Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.-->
 
-<!-- **System administration:**
-+Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH. -->
+<!--
+**System administration:**
++Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH.
+-->
 
 Experience
 ---
@@ -83,9 +92,11 @@ Experience
 + As a member of the data science and sharing team, I built pipelines for processing magnetic resonance imaging data of human brains, using Python and R.
 + By introducing software container technologies to our team, I eased our ability to work reproducibly in different compute contexts, including the NIH compute cluster.
 
-<!-- **Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
+<!--
+**Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
 
-+ I compiled an annual report detailing every insurance payment request and employee salary in the hospital. -->
++ I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
+-->
 
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
@@ -93,19 +104,23 @@ Experience
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design.
 + I developed software tools to analyze the data I collected (data wrangling, DSP, image processing, plotting, and statistics).
 
-<!-- **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
+<!--
+**Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I established molecular techniques for assessing NFκB activity in a model for delirium and neurodegeneration in mice.
 
 **Research Assistant:** 2009, National Center for Biological Sciences, Bangalore, India
 
-+  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources. -->
++  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources.
+-->
 
 Education
 ---------
 
 **PhD, Neuroscience:** 2015, Trinity College, University of Dublin (TCD)
- <!--    Thesis title: Olfactory Habituation in *Drosophila melanogaster* -->
+<!--
+ Thesis title: Olfactory Habituation in *Drosophila melanogaster*
+-->
 
 **Data Science Specialization:** 2015, Johns Hopkins University - Coursera
 
@@ -154,7 +169,9 @@ Selected Publications
 * McClure, Patrick, Charles Y. Zheng, Jakub R. Kaczmarzyk, John A. Lee, Satrajit S. Ghosh, Dylan Nielson, Peter Bandettini, and Francisco Pereira. "Distributed Weight Consolidation: A Brain Segmentation Case Study." arXiv preprint arXiv:1805.10863 (2018).
 * M Nielson, Dylan & Pereira, Francisco & Y Zheng, Charles & Migineishvili, Nino & A Lee, John & Thomas, Adam & Bandettini, Peter. (2018). Detecting and harmonizing scanner differences in the ABCD study - annual release 1.0. 10.1101/309260.
 * Migineishvili, Nino & Nielson, Dylan & A. Lee, John & Shaw, Phillip & Thomas, Adam & Bandettini, Peter. (2017). Parsimony and Machine Learning in Neuroimaging. 10.13140/RG.2.2.25126.63047.
-<!--Indian brain:https://www.biorxiv.org/content/10.1101/2020.05.08.077172v1-->
+<!--
+* Indian brain:https://www.biorxiv.org/content/10.1101/2020.05.08.077172v1
+-->
 
 
 ---
