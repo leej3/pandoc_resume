@@ -18,9 +18,13 @@ Initially focusing mostly on data wrangling and assembling/modifying reproducibl
 I have contributed to several open-source libraries.
 
 **CI sytems:**
-I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust p arallel execution, efficient test data management, and headless GUI execution.
+I have broad experience with continuous integration testing systems helping keep my code maintaibable and robust.
+<!--
+I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
+-->
+<!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
-
+-->
 **Data munging:**
 I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools (in Python).
 
@@ -57,12 +61,10 @@ I spend my days using Linux. This ranges from servers, clusters, cloud, and cont
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
 
 **Collaboration:**
-Whenever I generate a solution to a problem, I seek to build off what already exists.
-Python excels at this community driven approach.
-I solve my problems recruiting expertise on-site or externally to move forward as efficiently as possible.
-My expertise in git greatly facilitates this endevour.
+Whenever I'm solving a problem, I seek to build off what already exists.
+Python and git excel as tools for this community driven approach.
 
-**Relational databases:** I have some experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to pre-existing databases.
+**Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to pre-existing databases.
 
 **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
 
@@ -77,7 +79,8 @@ Experience
 <!--
 + As a member of the science and statistical computing core, I developed a new build system for the team, using CMake for cross-platform compatibility and reducing maintenance effort.
  -->
-+ As a member of the science and statistical computing core, I co-opted community tools to facilitate development within the group. Whether this was docker for software environment encapsulation or NiPype for workflow creation I blended the group's software with work from others for optimal pipelines for the community.
++ As a member of the science and statistical computing core, I co-opted community tools to facilitate development within the group.
+Whether this was docker for software environment encapsulation or NiPype for workflow creation I blended the group's software with work from others for optimal pipelines for the community.
 <!--
 + By packaging our code with standard tools, I created a more efficient distribution of releases to our users.
 -->
@@ -91,9 +94,11 @@ Experience
 
 **Data Scientist:** 2016-2018, National Institute of Mental Health, Bethesda, Maryland
 
++ I uploaded several datasets collected by scientists on site to online public repositories requiring collaboration with the scientists and attention to repository data specifications.
 + As a member of the data science and sharing team, I built pipelines for processing magnetic resonance imaging data of human brains, using Python and R.
+<!--
 + By introducing software container technologies to our team, I eased our ability to work reproducibly in different compute contexts, including the NIH compute cluster.
-
+-->
 **Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
 
 + I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
