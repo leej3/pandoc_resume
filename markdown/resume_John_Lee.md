@@ -13,18 +13,19 @@ Add restful apis to technologies
 -->
 **Programming:**
 I program daily using Python and Bash.
-I occasionally write C and have worked extensively in R and Matlab.
+I  have worked extensively in R and Matlab and occasionally write C.
 Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
 I have contributed to several open-source libraries.
 
 **CI sytems:**
-I have broad experience with continuous integration testing systems helping keep my code maintaibable and robust.
+I have broad experience with continuous integration testing systems helping keep my code maintainable and robust.
 <!--
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
 -->
 <!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
 -->
+
 **Data munging:**
 I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools (in Python).
 
@@ -40,7 +41,7 @@ I work regularly with aspects of commit management (bisect, interactive rebase, 
 I have also worked with more advanced aspects of git such as grafting histories and rewriting histories with deletion of large binaries.
 
 **Computing at scale:**
-Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype) sometimes efficiently using thousands of CPU hours within a day.
+Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day.
 
 **Cloud architectures:**
 Typically using awscli (but also a little Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
@@ -54,6 +55,9 @@ I have substantial experience with using packaging tools including pip, conda, C
 **Automation/Orchestration:**
 I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
 
+**Machine Learning:**
+I have built machine learning pipelines using scikit-learn and TensorFlow.
+
 **Linux:**
 I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone (mobian on PinePhone).
 
@@ -64,7 +68,7 @@ I have been involved in several workshops on best practices for scientific compu
 Whenever I'm solving a problem, I seek to build off what already exists.
 Python and git excel as tools for this community driven approach.
 
-**Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to interface to pre-existing databases.
+**Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to connect to pre-existing databases.
 
 **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
 
@@ -79,8 +83,9 @@ Experience
 <!--
 + As a member of the science and statistical computing core, I developed a new build system for the team, using CMake for cross-platform compatibility and reducing maintenance effort.
  -->
-+ As a member of the science and statistical computing core, I co-opted community tools to facilitate development within the group.
-Whether this was docker for software environment encapsulation or NiPype for workflow creation I blended the group's software with work from others for optimal pipelines for the community.
++ As a member of the science and statistical computing core, I co-opted community tools to facilitate software development on my team.
+Whether this was docker for environment encapsulation or NiPype for workflow creation, I blended the group's software with work from other groups for optimal pipelines for the community.
+
 <!--
 + By packaging our code with standard tools, I created a more efficient distribution of releases to our users.
 -->
@@ -94,11 +99,14 @@ Whether this was docker for software environment encapsulation or NiPype for wor
 
 **Data Scientist:** 2016-2018, National Institute of Mental Health, Bethesda, Maryland
 
-+ I uploaded several datasets collected by scientists on site to online public repositories requiring collaboration with the scientists and attention to repository data specifications.
-+ As a member of the data science and sharing team, I built pipelines for processing magnetic resonance imaging data of human brains, using Python and R.
++ I uploaded several datasets collected by scientists on site to online public repositories.
+This required collaboration with the scientists and attention to repository data specifications.
+
++ I built pipelines for processing MRI data of human brains, using Python and R.
 <!--
 + By introducing software container technologies to our team, I eased our ability to work reproducibly in different compute contexts, including the NIH compute cluster.
 -->
+
 **Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
 
 + I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
@@ -108,7 +116,7 @@ Whether this was docker for software environment encapsulation or NiPype for wor
 + I elucidated neural network changes for a simple olfactory behavior.
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design
 + I worked with molecular assay technologies (for proteins and nucleotides) with some use of sequence analysis tools.
-+ I developed software tools to analyze the data I collected (data wrangling, DSP, image processing, plotting, and statistics).
++ I developed software tools to analyze the data I collected. These tools performed data wrangling, DSP, image processing, plotting, and statistics.
 
 **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
 
