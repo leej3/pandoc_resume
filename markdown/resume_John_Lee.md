@@ -43,7 +43,7 @@ I work regularly with aspects of commit management (bisect, interactive rebase, 
 I have also worked with more advanced aspects of git such as grafting histories and rewriting histories with deletion of large binaries.
 
 **Computing at scale:**
-Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day.
+Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day on one of the largest supercomputers in the world.
 
 **Cloud architectures:**
 Typically using awscli (but also a little Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
@@ -85,6 +85,7 @@ Experience
 ---
 **Dev Ops Engineer:** 2018-Present, National Institute of Mental Health, Bethesda, Maryland
 
++ NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.
 <!--
 + As a member of the science and statistical computing core, I developed a new build system for the team, using CMake for cross-platform compatibility and reducing maintenance effort.
  -->
