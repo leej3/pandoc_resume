@@ -9,7 +9,7 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 <!--
 Add restful apis to technologies
 -->
-Starting my career with a PhD in neuroscience, I have worked in data science and software engineering over the last five years. I program daily using Python and Bash.
+Starting my career with a PhD in Neuroscience, I have worked in Data Science and Software Engineering over the last five years. I program daily using Python and Bash.
 I  have worked extensively in R and Matlab and occasionally write C.
 <!--
 Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
