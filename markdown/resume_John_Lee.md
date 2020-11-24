@@ -6,22 +6,22 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 
 ---
 
-Skills
----
 <!--
 Add restful apis to technologies
 -->
-**Programming:**
-I program daily using Python and Bash.
+Starting my career with a PhD in neuroscience, I have worked in data science and software engineering over the last five years. I program daily using Python and Bash.
 I  have worked extensively in R and Matlab and occasionally write C.
+<!--
 Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
+-->
 I have contributed to several open-source libraries.
+
+Skills
+---
 
 **CI sytems:**
 I have broad experience with continuous integration testing systems helping keep my code maintainable and robust.
-<!--
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
--->
 <!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
 -->
@@ -32,8 +32,10 @@ I have performed data processing at scale, distilling insights into graphics and
 **Build tools:**
 I have worked extensively with a large complex build system.
 The software suite was developed over ~25 years, comprised of >600 programs, ~1.5 million lines of code, several previously unpackaged dependencies.
+<!--
 In addition to modifying the pre-existing Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
 The build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
+-->
 
 **git:**
 I have used git version control for over a decade.
@@ -58,8 +60,10 @@ I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and 
 **Machine Learning:**
 I have built machine learning pipelines using scikit-learn and TensorFlow.
 
+<!--
 **Linux:**
 I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone (mobian on PinePhone).
+-->
 
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
@@ -70,11 +74,12 @@ Python and git excel as tools for this community driven approach.
 
 **Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to connect to pre-existing databases.
 
+<!--
 **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
 
 **System administration:**
 +Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH.
-
+-->
 
 Experience
 ---
@@ -114,7 +119,9 @@ This required collaboration with the scientists and attention to repository data
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I elucidated neural network changes for a simple olfactory behavior.
+<!--
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design
+-->
 + I worked with molecular assay technologies (for proteins and nucleotides) with some use of sequence analysis tools.
 + I developed software tools to analyze the data I collected. These tools performed data wrangling, DSP, image processing, plotting, and statistics.
 
@@ -140,6 +147,9 @@ Education
 
 **BAmod, Natural Science - Neuroscience:** 2009, TCD
 
+```{=context}
+\pagebreak
+```
 
 Awards and Honors
 ---
@@ -158,9 +168,6 @@ Leadership Positions
 
 **President, Treasurer:** 2010-2014, Dublin University Neuroscience Society
 
-```{=context}
-\pagebreak
-```
 Conferences/Workshops
 ---
 * DC Code convergence (Washington D.C., 2018, 2019)
