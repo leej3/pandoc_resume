@@ -31,7 +31,7 @@ I have performed data processing at scale, distilling insights into graphics and
 
 **Build tools:**
 I have worked extensively with a large complex build system.
-The software suite was developed over ~25 years, comprised of >600 programs, ~1.5 million lines of code, several previously unpackaged dependencies.
+The software suite was developed over ~25 years, comprised of >600 programs, ~1.5 million lines of code, with several previously unpackaged dependencies.
 <!--
 In addition to modifying the pre-existing Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
 The build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
