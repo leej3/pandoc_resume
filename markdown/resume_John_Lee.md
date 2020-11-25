@@ -83,7 +83,7 @@ Python and git excel as tools for this community driven approach.
 
 Experience
 ---
-**Dev Ops Engineer:** 2018-Present, National Institute of Mental Health, Bethesda, Maryland
+**Software Engineer:** 2018-2020, National Institute of Mental Health, Bethesda, Maryland
 
 + NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.
 <!--
