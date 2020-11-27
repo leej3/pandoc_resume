@@ -14,28 +14,26 @@ I  have worked extensively in R and Matlab and occasionally write C.
 <!--
 Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
 -->
-I have contributed to several open-source libraries.
+I have contributed to several open-source projects.
 
 Skills
 ---
 
 **CI sytems:**
-I have broad experience with continuous integration testing systems helping keep my code maintainable and robust.
-I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against (and debugging) race conditions for robust parallel execution, efficient test data management, and headless GUI execution.
+I have broad experience with continuous integration testing systems helping keep my code and that of others maintainable and robust.
+I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against and debugging race conditions for robust parallel execution, efficient test data management, platform independence, and headless GUI execution.
 <!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
 -->
 
 **Data munging:**
-I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools (in Python).
+I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools in Python.
 
 **Build tools:**
 I have worked extensively with a large complex build system.
-The software suite was developed over ~25 years, comprised of >600 programs, ~1.5 million lines of code, with several previously unpackaged dependencies.
-<!--
-In addition to modifying the pre-existing Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
-The build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
--->
+The software suite was developed over ~25 years, comprised of >600 programs, and ~1.5 million lines of code, with several previously unpackaged dependencies.
+In addition to modifying the legacy Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
+The CMake build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
 
 **git:**
 I have used git version control for over a decade.
@@ -43,20 +41,19 @@ I work regularly with aspects of commit management (bisect, interactive rebase, 
 I have also worked with more advanced aspects of git such as grafting histories and rewriting histories with deletion of large binaries.
 
 **Computing at scale:**
-Predominantly in the context of human neuroimaging software, I leverage compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day on one of the largest supercomputers in the world.
+Predominantly in the context of human neuroimaging software, I have leveraged compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day on one of the largest supercomputers in the world.
 
 **Cloud architectures:**
-Typically using awscli (but also a little Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
+Typically using awscli (but also some Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
 
 **Containers:**
-I frequently use containerization (including Docker and Singularity) for defining reproducible, version-able, and portable software environments.
+I frequently use containerization including Docker and Singularity for defining reproducible, version-able, and portable software environments.
 
 **Packaging software:**
-I have substantial experience with using packaging tools including pip, conda, CPack, and Debian tools.
+I have experience with using packaging tools including pip, conda, CPack, and Debian tools.
 
 **Automation/Orchestration:**
 I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
-
 **Machine Learning:**
 I have built machine learning pipelines using scikit-learn and TensorFlow.
 
@@ -66,7 +63,7 @@ I spend my days using Linux. This ranges from servers, clusters, cloud, and cont
 -->
 
 **Best practice:**
-I have been involved in several workshops on best practices for scientific computing and software development (in the role of teacher, helper, or curriculum developer).
+I have been involved in several workshops on best practices for scientific computing and software development, acting as teacher, helper, or curriculum developer.
 
 **Collaboration:**
 Whenever I'm solving a problem, I seek to build off what already exists.
