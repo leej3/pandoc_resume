@@ -82,7 +82,8 @@ Experience
 ---
 **Software Engineer:** 2018-2020, National Institute of Mental Health, Bethesda, Maryland
 
-+ NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.
+*NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.*
+
 <!--
 + As a member of the science and statistical computing core, I developed a new build system for the team, using CMake for cross-platform compatibility and reducing maintenance effort.
  -->
