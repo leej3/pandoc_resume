@@ -179,7 +179,9 @@ Conferences/Workshops
 
 * Advanced Python Mastery (Chicago, Illinois, 2018). Instructor: David Beasley
 
-* "SciPy"  (Austin, Texas, 2016 and 2017).
+* PyData DC (North Virginia, 2016)
+
+* "SciPy"  (Austin, Texas, 2016 and 2017)
 
 
 Selected Publications
