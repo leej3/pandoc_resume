@@ -54,13 +54,13 @@ I have experience with using packaging tools including pip, conda, CPack, and De
 
 **Automation/Orchestration:**
 I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
+<!--
 **Machine Learning:**
 I have built machine learning pipelines using scikit-learn and TensorFlow.
+-->
 
-<!--
 **Linux:**
 I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone (mobian on PinePhone).
--->
 
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development, acting as teacher, helper, or curriculum developer.
@@ -69,8 +69,9 @@ I have been involved in several workshops on best practices for scientific compu
 Whenever I'm solving a problem, I seek to build off what already exists.
 Python and git excel as tools for this community driven approach.
 
+<!--
 **Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to connect to pre-existing databases.
-
+-->
 <!--
 **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
 
@@ -80,7 +81,7 @@ Python and git excel as tools for this community driven approach.
 
 Experience
 ---
-**Software Engineer:** 2018-2020, National Institute of Mental Health, Bethesda, Maryland
+**DevOps Engineer:** 2018-2020, National Institute of Mental Health, Bethesda, Maryland
 
 *NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.*
 
@@ -111,17 +112,19 @@ This required collaboration with the scientists and attention to repository data
 + By introducing software container technologies to our team, I eased our ability to work reproducibly in different compute contexts, including the NIH compute cluster.
 -->
 
+<!--
 **Data Analyst Intern:** 2016, Virginia Hospital Center, Arlington, Virginia
 
 + I compiled an annual report detailing every insurance payment request and employee salary in the hospital.
+-->
 
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I elucidated neural network changes for a simple olfactory behavior.
-<!--
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design
--->
+<!--
 + I worked with molecular assay technologies (for proteins and nucleotides) with some use of sequence analysis tools.
+-->
 + I developed software tools to analyze the data I collected. These tools performed data wrangling, DSP, image processing, plotting, and statistics.
 
 **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
