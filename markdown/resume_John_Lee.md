@@ -190,6 +190,7 @@ Selected Publications
 * Migineishvili, Nino & Nielson, Dylan & A. Lee, John & Shaw, Phillip & Thomas, Adam & Bandettini, Peter. (2017). Parsimony and Machine Learning in Neuroimaging. 10.13140/RG.2.2.25126.63047.
 <!--
 * Indian brain:https://www.biorxiv.org/content/10.1101/2020.05.08.077172v1
+ Holla, B, Taylor, PA, Glen, DR, et al. A series of five population‐specific Indian brain templates and atlases spanning ages 6–60 years. Hum Brain Mapp. 2020; 41: 5164– 5175. https://doi.org/10.1002/hbm.25182
 -->
 
 
