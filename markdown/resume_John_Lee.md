@@ -22,6 +22,7 @@ Skills
 **CI sytems:**
 I have broad experience with continuous integration testing systems helping keep my code and that of others maintainable and robust.
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against and debugging race conditions for robust parallel execution, efficient test data management, platform independence, and headless GUI execution.
+I have architected cloud CI setups to deliver automated, reproducible environments to data-scientists and developers to drop costs and ease onboarding.
 <!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
 -->
@@ -29,11 +30,13 @@ While I have predominantly worked with CircleCI, I have experience with TravisCI
 **Data munging:**
 I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools in Python.
 
+<!--
 **Build tools:**
 I have worked extensively with a large complex build system.
 The software suite was developed over ~25 years, comprised of >600 programs, and ~1.5 million lines of code, with several previously unpackaged dependencies.
 In addition to modifying the legacy Makefile build, I completed pre-existing efforts to port the build to CMake in which I have substantial expertise.
 The CMake build now works efficiently across Unix like systems with various compilers and linkers satisfying all target systems of my team.
+-->
 
 **git:**
 I have used git version control for over a decade.
@@ -43,14 +46,16 @@ I have also worked with more advanced aspects of git such as grafting histories 
 **Computing at scale:**
 Predominantly in the context of human neuroimaging software, I have leveraged compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day on one of the largest supercomputers in the world.
 
-**Cloud architectures:**
-Typically using awscli (but also some Ansible), I have set up and used cloud computing and data storage (EC2 and S3).
+**Cloud providers:**
+I have orchestrated and used resources on AWS, Azure, and GCP.
 
 **Containers:**
-I frequently use containerization including Docker and Singularity for defining reproducible, version-able, and portable software environments.
+I frequently use containerization including Docker and Singularity for defining reproducible, version-able, and portable software environments for local or cloud-based development.
 
+<!--
 **Packaging software:**
 I have experience with using packaging tools including pip, conda, CPack, and Debian tools.
+-->
 
 **Automation/Orchestration:**
 I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
@@ -59,8 +64,10 @@ I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and 
 I have built machine learning pipelines using scikit-learn and TensorFlow.
 -->
 
+<!--
 **Linux:**
 I spend my days using Linux. This ranges from servers, clusters, cloud, and containers to my personal laptop and mobile phone (mobian on PinePhone).
+-->
 
 **Best practice:**
 I have been involved in several workshops on best practices for scientific computing and software development, acting as teacher, helper, or curriculum developer.
@@ -69,8 +76,11 @@ I have been involved in several workshops on best practices for scientific compu
 Whenever I'm solving a problem, I seek to build off what already exists.
 Python and git excel as tools for this community driven approach.
 
+
+**Relational databases:** 
+I have used SQLAlchemy's to define object relational mappings for convenient interaction with databases from Python.
 <!--
-**Relational databases:** I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to connect to pre-existing databases.
+I have experience with SQL from teaching courses in Software Carpentry and from using SQLAlchemy to connect to pre-existing databases.
 -->
 <!--
 **Medicare and insurance claims data:** When working at Virginia Hospital Center, I worked with some records of CPT codes. My experience with this was limited to a couple of months though.
@@ -121,11 +131,16 @@ This required collaboration with the scientists and attention to repository data
 **Doctoral Candidate:** 2010-2015, Trinity College Institute of Neuroscience, Dublin, Ireland
 
 + I elucidated neural network changes for a simple olfactory behavior.
++ I worked with electronics, digital signal processing, image processing, statistical and graphical analysis, genetic manipulation, microscopy, electrophysiology.
+<!--
 + I automated an experimental setup by way of bespoke electronic components, interfaces to high end research components, programmable logic controllers, an Arduino micro-controller, and electrical systems of my own design
+-->
 <!--
 + I worked with molecular assay technologies (for proteins and nucleotides) with some use of sequence analysis tools.
 -->
+<!--
 + I developed software tools to analyze the data I collected. These tools performed data wrangling, DSP, image processing, plotting, and statistics.
+-->
 
 **Research Assistant:** 2010, Trinity College Institute of Neuroscience, Dublin, Ireland
 
@@ -133,8 +148,14 @@ This required collaboration with the scientists and attention to repository data
 
 **Research Assistant:** 2009, National Center for Biological Sciences, Bangalore, India
 
-+  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies according to size, color, and distance from biochemical signaling sources.
++  I wrote image-processing scripts in Matlab to automate the categorization/quantification of bacterial colonies.
+<!--
+according to size, color, and distance from biochemical signaling sources.
+-->
 
+```{=context}
+\pagebreak
+```
 
 Education
 ---------
@@ -149,9 +170,6 @@ Education
 
 **BAmod, Natural Science - Neuroscience:** 2009, TCD
 
-```{=context}
-\pagebreak
-```
 
 Awards and Honors
 ---
@@ -164,12 +182,13 @@ Awards and Honors
 
 Leadership Positions
 ---
-**Co-founder:** 2019-Present, NIMH Coders' forum
+**Co-founder:** 2019-2020, NIMH Coders' forum
 
 **Dive Leader & Open Water Instructor:** 2014, British Sub-Aqua Club
 
 **President, Treasurer:** 2010-2014, Dublin University Neuroscience Society
 
+<!--
 Conferences/Workshops
 ---
 * DC Code convergence (Washington D.C., 2018, 2019)
@@ -183,7 +202,7 @@ Conferences/Workshops
 * PyData DC (North Virginia, 2016)
 
 * "SciPy"  (Austin, Texas, 2016 and 2017)
-
+-->
 
 Selected Publications
 ---
