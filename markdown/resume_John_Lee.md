@@ -1,7 +1,7 @@
 John Lee
 ==========
 
-> johnleenimh@gmail.com \hspace[oneem] \textbullet  \hspace[oneem]
+> leej3@mailbox.org \hspace[oneem] \textbullet  \hspace[oneem]
 github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3/
 
 ---
@@ -9,12 +9,13 @@ github.com/leej3 \hspace[oneem] \textbullet \hspace[oneem] linkedin.com/in/leej3
 <!--
 Add restful apis to technologies
 -->
-Starting my career with a PhD in Neuroscience, I have worked in Data Science and Software Engineering over the last five years. I program daily using Python and Bash.
-I  have worked extensively in R and Matlab and occasionally write C.
+Starting my career with a PhD in Neuroscience, I have subsequently worked in Data Science, DevOps, and Software Engineering over the last eight years. In recent years I have predominantly programmed in Python.
 <!--
 Initially focusing mostly on data wrangling and assembling/modifying reproducible-pipelines using pre-existing algorithms/software suites, I have more recently been developing software more formally.
 -->
+<!--
 I have contributed to several open-source projects.
+-->
 
 Skills
 ---
@@ -23,12 +24,10 @@ Skills
 I have broad experience with continuous integration testing systems helping keep my code and that of others maintainable and robust.
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against and debugging race conditions for robust parallel execution, efficient test data management, platform independence, and headless GUI execution.
 I have architected cloud CI setups to deliver automated, reproducible environments to data-scientists and developers to drop costs and ease onboarding.
-<!--
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
--->
 
 **Data munging:**
-I have performed data processing at scale, distilling insights into graphics and statistical models using data science tools in Python.
+I have performed data processing in notebooks using Pandas and on clusters at scale, distilling insights into graphics and statistical models using data science tools in Python.
 
 <!--
 **Build tools:**
@@ -45,6 +44,7 @@ I have also worked with more advanced aspects of git such as grafting histories 
 
 **Computing at scale:**
 Predominantly in the context of human neuroimaging software, I have leveraged compute-cluster resources using community tools (Dask, ipyparallel, Swarm, Slurm, Nipype), sometimes efficiently using thousands of CPU hours within a day on one of the largest supercomputers in the world.
+More recently in an enterprise setting I have made use of more enterprise ready workflow tools like Prefect and Dagster.
 
 **Cloud providers:**
 I have orchestrated and used resources on AWS, Azure, and GCP.
@@ -58,11 +58,11 @@ I have experience with using packaging tools including pip, conda, CPack, and De
 -->
 
 **Automation/Orchestration:**
-I automate workflows, using tools like Python, Bash, git, Circleci, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
-<!--
+I automate workflows, using tools like Python, Bash, git, cloud CI systems, Docker, and Cron to improve the efficiency, reproducibility, and scalability of my work.
+
 **Machine Learning:**
 I have built machine learning pipelines using scikit-learn and TensorFlow.
--->
+
 
 <!--
 **Linux:**
@@ -88,9 +88,20 @@ I have experience with SQL from teaching courses in Software Carpentry and from 
 **System administration:**
 +Along with a team, I maintain GPU-compute servers (Ubuntu OS) as part of the work at the NIH.
 -->
+```{=context}
+\pagebreak
+```
+
 
 Experience
 ---
+
+**Software Engineer:** 2021-present, Quansight, remote
+
+*Quansight provides open-source consulting globally to enterprise clients to help meet their data needs.*
+
++ I have worked on several projects over more than two years. Examples include: improving build and CI systems of scikit-image and numpy, deploying an ML pipeline for time-series analysis of gas markets for a large energy company, setting up cloud infrastructure, establishing a test suite, and converting python scripts to a Dagster pipeline deployed on AKS for a non-profit entity; developing a web-app for social media campaign management for a start-up; developing a web-app for in house HR needs.
+
 **DevOps Engineer:** 2018-2020, National Institute of Mental Health, Bethesda, Maryland
 
 *NIMH, with a budget of $1.5 billion, is the largest research organization specializing in mental illness in the world.*
@@ -218,7 +229,7 @@ Selected Publications
 
 ---
 
-> johnleenimh@gmail.com
+> leej3@mailbox.org
 >
 > github.com/leej3 \hspace[twoem] \textbullet \hspace[twoem] linkedin.com/in/leej3/
 >
