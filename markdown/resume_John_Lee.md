@@ -20,14 +20,23 @@ I have contributed to several open-source projects.
 Skills
 ---
 
+<!-- 
 **CI sytems:**
 I have broad experience with continuous integration testing systems helping keep my code and that of others maintainable and robust.
 I created a generic infrastructure for convenient execution  of a language agnostic test suite, which included protecting against and debugging race conditions for robust parallel execution, efficient test data management, platform independence, and headless GUI execution.
 I have architected cloud CI setups to deliver automated, reproducible environments to data-scientists and developers to drop costs and ease onboarding.
 While I have predominantly worked with CircleCI, I have experience with TravisCI, Jenkins, GitlabCI, and TestKraken (to which I have contributed).
+-->
+
 
 **Data munging:**
 I have performed data processing in notebooks using Pandas and on clusters at scale, distilling insights into graphics and statistical models using data science tools in Python.
+
+**Dashboards/Webapps:**
+I have built a number of webapps and dashboards to connect users to data
+systems. I have primarily used Panel, Flask, and FastAPI for this. This allows
+clients to utilize their pre-existing data in a more flexible and interactive
+manner.
 
 <!--
 **Build tools:**
